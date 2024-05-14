@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Sadia/Desktop/WorkingWithEFCore-master/DeletingEntities/WorkingWithEFCore/WorkingWithEFCore.csproj": {}
+    "/Users/Sadia/Desktop/ref/DeletingEntities/WorkingWithEFCore/WorkingWithEFCore.csproj": {}
   },
   "projects": {
-    "/Users/Sadia/Desktop/WorkingWithEFCore-master/DeletingEntities/WorkingWithEFCore/WorkingWithEFCore.csproj": {
+    "/Users/Sadia/Desktop/ref/DeletingEntities/WorkingWithEFCore/WorkingWithEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Sadia/Desktop/WorkingWithEFCore-master/DeletingEntities/WorkingWithEFCore/WorkingWithEFCore.csproj",
+        "projectUniqueName": "/Users/Sadia/Desktop/ref/DeletingEntities/WorkingWithEFCore/WorkingWithEFCore.csproj",
         "projectName": "WorkingWithEFCore",
-        "projectPath": "/Users/Sadia/Desktop/WorkingWithEFCore-master/DeletingEntities/WorkingWithEFCore/WorkingWithEFCore.csproj",
+        "projectPath": "/Users/Sadia/Desktop/ref/DeletingEntities/WorkingWithEFCore/WorkingWithEFCore.csproj",
         "packagesPath": "/Users/Sadia/.nuget/packages/",
-        "outputPath": "/Users/Sadia/Desktop/WorkingWithEFCore-master/DeletingEntities/WorkingWithEFCore/obj/",
+        "outputPath": "/Users/Sadia/Desktop/ref/DeletingEntities/WorkingWithEFCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Sadia/.nuget/NuGet/NuGet.Config"

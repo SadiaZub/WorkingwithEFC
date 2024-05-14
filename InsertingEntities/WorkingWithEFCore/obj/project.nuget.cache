@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+jKGGVO5x/9zUsJ7LZawMpcLpCmOMY23KvnMDmdoRD6jBvJM5Qhpxdgyl1YUxUVMXUCwLkUXGkgyQnlUTQK8wQ==",
+  "dgSpecHash": "Ufk+iMw+ZaVKykHBr8G99RW0qh5iP4PGjqlhsTq5MLEb1vwHhhZan/H9tGhmXDSp3xURb4NDPf+dG0qWe3iD4A==",
   "success": true,
-  "projectFilePath": "/Users/Sadia/Desktop/WorkingWithEFCore-master/DeletingEntities/WorkingWithEFCore/WorkingWithEFCore.csproj",
+  "projectFilePath": "/Users/Sadia/Desktop/ref/DeletingEntities/WorkingWithEFCore/WorkingWithEFCore.csproj",
   "expectedPackageFiles": [
     "/Users/Sadia/.nuget/packages/castle.core/5.1.0/castle.core.5.1.0.nupkg.sha512",
     "/Users/Sadia/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

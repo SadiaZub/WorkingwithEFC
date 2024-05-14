@@ -10,7 +10,6 @@
 
 //GetRandomProduct();
 
-
 var resultAdd = AddProduct(categoryId: 6,
   productName: "Bob's Burgers", price: 500M);
 
@@ -21,6 +20,7 @@ if (resultAdd.affected == 1)
 
 ListProducts(productIdsToHighlight: new[] { resultAdd.productId });
 
+
 /*
 var resultUpdate = IncreaseProductPrice(
  productNameStartsWith: "Bob", amount: 20M);
@@ -30,9 +30,7 @@ if (resultUpdate.affected == 1)
 }
 ListProducts(productIdsToHighlight: new[] { resultUpdate.productId });
 */
-
 /*
-
 WriteLine("About to delete all products whose name starts with Bob.");
 Write("Press Enter to continue or any other key to exit: ");
 if (ReadKey(intercept: true).Key == ConsoleKey.Enter)
